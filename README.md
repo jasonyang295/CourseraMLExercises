@@ -1,1 +1,1 @@
-This repo contains the exercises for the Machine Learning course on Coursera offered by Stanford University (taught by Professor Andrew Ng). I took this course in the summer of 2021. 
+This repo contains the exercises for the Coursera Machine Learning course that I took in summer 2021 offered by Stanford University taught by Professor Andrew Ng. Hope this can be a helpful reference. 
